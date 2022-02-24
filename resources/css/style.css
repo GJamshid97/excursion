@@ -3,3 +3,13 @@ body {
   text-align: center;
   font-size: verdana, geneva, tahoma, sans-serif;
 }
+
+.header--main {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+link--cta {
+  font-size: 16px;
+  color: aquamarine;
+}
